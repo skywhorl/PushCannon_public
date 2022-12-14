@@ -9,7 +9,8 @@ This game plot is The story of being in charge of handling old buildings or huge
 **This is android mobile game, so if you want to play this game in android phone, download "apk.zip"**  
 This project uses the "Google Play Console" to put achievements, rankings, and advertisement systems.  
 Therefore, sensitive items such as IDs were excluded from the repository and registered. Works within Unity should be no problem.  
-If you want to see in Unity, Please check screen resolution 1440 X 2560
+If you want to see in Unity, Please check screen resolution 1440 X 2560.  
+If you use emulator like "blue stacks", you need to screen resolution 2560 X 1440.  
 
 ### How to play
 * The joystick in the lower right is used to move the cannon barrel.  
@@ -37,6 +38,7 @@ If you want to see in Unity, Please check screen resolution 1440 X 2560
 이 프로젝트에는 "Google Play Console"을 통해 업적, 랭킹, 광고 시스템을 제작했습니다.  
 따라서 ID와 같은 민감한 내용은 제외한 채 등록되었습니다. 아마 실행 자체에는 문제 없을 겁니다.  
 만일 Unity에서 플레이 하신다면 화면비율 1440 X 2560에 최적화 되어 있다는 점 참고 바랍니다.  
+만약 블루스택 같은 애뮬레이터를 사용하신다면, 화면 비율 2560 X 1440에 최적화 되어 있는 점 참고 바랍니다.  
 
 ### 플레이 방법
 * 우측 하단에 있는 조이스틱으로 포신을 조작할 수 있습니다.
