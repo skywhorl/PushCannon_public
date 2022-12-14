@@ -4,7 +4,7 @@ Hyper casual mobile game
 
 ## [English](하단에 한국어 있습니다)  
 This game plot is The story of being in charge of handling old buildings or huge items with cannons  
-* Watch Game Play Video : <a href="https://youtu.be/VqpL3wQ9fQU"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>  
+* Watch Game Play Video : <a href="https://youtu.be/1c4yz9_by70"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>  
 
 **This is android mobile game, so if you want to play this game in android phone, download "apk.zip"**  
 This project uses the "Google Play Console" to put achievements, rankings, and advertisement systems.  
@@ -32,7 +32,7 @@ If you use emulator like "blue stacks", you need to screen resolution 2560 X 144
     
 ## [한국어]  
 이 게임은 거대한 물품과 건물들을 대포로 처리하는 스토리를 가진 게임입니다.
-* 플레이 영상 보기 : <a href="https://youtu.be/VqpL3wQ9fQU"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>  
+* 플레이 영상 보기 : <a href="https://youtu.be/1c4yz9_by70"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>  
 
 **해당 게임은 안드로이드 게임으로 플레이를 원하시면 "apk.zip" 파일을 다운받으시면 됩니다.**  
 이 프로젝트에는 "Google Play Console"을 통해 업적, 랭킹, 광고 시스템을 제작했습니다.  
